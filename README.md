@@ -34,4 +34,4 @@
 [![SOKURI_CODE | Instagram](https://img.icons8.com/color/48/000000/instagram-new--v2.png)](https://www.instagram.com/kim__ji_tae/)
 
 
-Email: wlx0401@gmail.com
+Email: wlxo0401@gmail.com
