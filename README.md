@@ -17,38 +17,21 @@
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/adobexd-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
 
 ### Connect with me:
-
-wlx0401@gmail.com
-
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | Twitter" width="48px" src="https://img.icons8.com/color/48/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
-
-[website]: https://jiwift.tistory.com/
-[twitter]: https://twitter.com/iOXCODE
-[linkedin]: https://www.linkedin.com/in/%EC%A7%80%ED%83%9C-%EA%B9%80-7026a2213/
-[instagram]: https://www.instagram.com/kim__ji_tae 
+[![SOKURI_CODE | velog](https://img.icons8.com/color/48/000000/blog.png)](https://jiwift.tistory.com/)
+[![SOKURI_CODE | Twitter](https://img.icons8.com/color/48/000000/twitter-squared.png)](https://twitter.com/iOXCODE/)
+[![SOKURI_CODE | LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/%EC%A7%80%ED%83%9C-%EA%B9%80-7026a2213/)
+[![SOKURI_CODE | Instagram](https://img.icons8.com/color/48/000000/instagram-new--v2.png)](https://www.instagram.com/kim__ji_tae/)
 
 
-<!--
-**wlxo0401/wlxo0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: wlx0401@gmail.com
