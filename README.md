@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJitae&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub&descAlignY=51&descAlign=50)
 
 <a href="https://github.com/wlxo0401"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wlxo0401&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=false" alt="SOKURI's github stats" /></a>
 <a href="https://github.com/wlxo0401"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlxo0401&layout=compact&theme=shadow_green&hide_border=false" /></a> 
