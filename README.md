@@ -1,5 +1,10 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJitae&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub&descAlignY=51&descAlign=50)
+<p align="left">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlxo0401%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</p>
 
 ### 👾 Stats
 
@@ -27,7 +32,13 @@
 <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
 
-### Connect with me:
+### 🧚‍♂️ Contributing to a project
+https://github.com/evgenyneu/Cosmos/pull/200
+https://github.com/SnapKit/SnapKit/pull/794
+https://github.com/evgenyneu/Cosmos/pull/200
+https://github.com/WenchaoD/FSCalendar/pull/1422
+
+### 📨 Connect with me:
 [![SOKURI_CODE | velog](https://img.icons8.com/color/48/000000/blog.png)](https://jiwift.tistory.com/)
 [![SOKURI_CODE | Twitter](https://img.icons8.com/color/48/000000/twitter-squared.png)](https://twitter.com/iOXCODE/)
 [![SOKURI_CODE | LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/%EC%A7%80%ED%83%9C-%EA%B9%80-7026a2213/)
