@@ -33,9 +33,9 @@
 <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
 
 ### 🧚‍♂️ Contributing to a project
+https://github.com/evgenyneu/Cosmos/pull/199
 https://github.com/evgenyneu/Cosmos/pull/200
 https://github.com/SnapKit/SnapKit/pull/794
-https://github.com/evgenyneu/Cosmos/pull/200
 https://github.com/WenchaoD/FSCalendar/pull/1422
 
 ### 📨 Connect with me:
