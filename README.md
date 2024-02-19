@@ -40,7 +40,6 @@ https://github.com/WenchaoD/FSCalendar/pull/1422
 
 ### 📨 Connect with me:
 [![SOKURI_CODE | velog](https://img.icons8.com/color/48/000000/blog.png)](https://jiwift.tistory.com/)
-[![SOKURI_CODE | Twitter](https://img.icons8.com/color/48/000000/twitter-squared.png)](https://twitter.com/iOXCODE/)
 [![SOKURI_CODE | LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/%EC%A7%80%ED%83%9C-%EA%B9%80-7026a2213/)
 [![SOKURI_CODE | Instagram](https://img.icons8.com/color/48/000000/instagram-new--v2.png)](https://www.instagram.com/kim__ji_tae/)
 
