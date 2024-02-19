@@ -37,6 +37,7 @@ https://github.com/evgenyneu/Cosmos/pull/199
 https://github.com/evgenyneu/Cosmos/pull/200
 https://github.com/SnapKit/SnapKit/pull/794
 https://github.com/WenchaoD/FSCalendar/pull/1422
+https://github.com/danielgindi/Charts/pull/5141
 
 ### 📨 Connect with me:
 [![SOKURI_CODE | velog](https://img.icons8.com/color/48/000000/blog.png)](https://jiwift.tistory.com/)
