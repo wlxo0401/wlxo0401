@@ -1,15 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimJitae&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub&descAlignY=51&descAlign=50)
-<p align="left">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlxo0401%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-</p>
 
-### 👾 Stats
-
-<a href="https://github.com/wlxo0401"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wlxo0401&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=false" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/wlxo0401"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlxo0401&layout=compact&theme=shadow_green&hide_border=false" /></a> 
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> </t>
