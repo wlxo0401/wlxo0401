@@ -52,8 +52,6 @@ iOS 개발자로 시작해, 이제는 AI와 함께 기획부터 배포까지 만
   </tr>
 </table>
 
-## Open source
+---
 
-Apple Privacy Manifest 대응 등에 기여했습니다. (모두 merged)
-
-[Charts #5141](https://github.com/danielgindi/Charts/pull/5141) · [Cosmos #199](https://github.com/evgenyneu/Cosmos/pull/199), [#200](https://github.com/evgenyneu/Cosmos/pull/200) · [SnapKit #794](https://github.com/SnapKit/SnapKit/pull/794) · [FSCalendar #1422](https://github.com/WenchaoD/FSCalendar/pull/1422)
+<sub>[Charts #5141](https://github.com/danielgindi/Charts/pull/5141) · [Cosmos #199](https://github.com/evgenyneu/Cosmos/pull/199), [#200](https://github.com/evgenyneu/Cosmos/pull/200) · [SnapKit #794](https://github.com/SnapKit/SnapKit/pull/794) · [FSCalendar #1422](https://github.com/WenchaoD/FSCalendar/pull/1422)</sub>
