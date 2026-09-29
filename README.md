@@ -1,5 +1,7 @@
 # Jitae Kim
 
+> 앱을 넘어, 필요한 것이라면 무엇이든 만듭니다.
+
 iOS 개발자로 시작해, 이제는 AI와 함께 기획부터 배포까지 만들어내는 개발자입니다.
 
 [Blog](https://jiwift.tistory.com/) · [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%83%9C-%EA%B9%80-7026a2213/) · [Instagram](https://www.instagram.com/kim__ji_tae/) · [Email](mailto:wlxo0401@gmail.com)
@@ -16,7 +18,6 @@ iOS 개발자로 시작해, 이제는 AI와 함께 기획부터 배포까지 만
 | **AI** | Claude Code |
 | **Tools** | GitHub, GitLab, Swagger, VS Code |
 | **Design** | Figma, Adobe XD |
-| **Collab** | Jira, Confluence, Slack, Discord |
 
 ## Activity
 
