@@ -56,8 +56,9 @@ Apple의 **Privacy Manifest** 요구사항에 맞춰 인기 iOS 라이브러리�
 
 <div align="center">
 
-![Jitae's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJiTae&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJiTae&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wlxo0401&theme=tokyonight&hide_border=true)](https://github.com/wlxo0401)
+
+![Contribution Graph](https://ghchart.rshah.org/wlxo0401)
 
 </div>
 
