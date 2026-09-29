@@ -10,8 +10,9 @@ iOS 개발자로 시작해, 이제는 AI와 함께 기획부터 배포까지 만
 
 | | |
 |---|---|
-| **Language** | Swift, Python |
+| **Language** | Swift, Python, JavaScript |
 | **iOS** | RxSwift, Realm, Firebase, Xcode |
+| **Web (Prototype)** | Node.js, React |
 | **AI** | Claude Code |
 | **Tools** | GitHub, GitLab, Swagger, VS Code |
 | **Design** | Figma, Adobe XD |
