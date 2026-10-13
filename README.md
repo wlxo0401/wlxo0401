@@ -33,22 +33,22 @@ iOS 개발자로 시작해, 이제는 AI와 함께 기획부터 배포까지 만
     <td width="40%"><a href="https://apps.apple.com/kr/app/id6791829412"><b>WayP - GPS 속도계</b></a><br/><sub>실시간 GPS 속도계<br/>및 주행 기록 앱</sub></td>
   </tr>
   <tr>
+    <td width="180" align="center"><a href="https://apps.apple.com/kr/app/id6796928507"><img src="assets/apps/6796928507.png" width="160" alt="대리머니"/></a></td>
+    <td width="40%"><a href="https://apps.apple.com/kr/app/id6796928507"><b>대리머니</b></a><br/><sub>대리운전 기사님을 위한<br/>운행 기록·정산 앱</sub></td>
     <td width="180" align="center"><a href="https://apps.apple.com/kr/app/id6739884102"><img src="assets/apps/6739884102.png" width="160" alt="루프 - 적립식 투자 일지"/></a></td>
     <td width="40%"><a href="https://apps.apple.com/kr/app/id6739884102"><b>루프 - 적립식 투자 일지</b></a><br/><sub>적립식 투자 습관 형성을<br/>돕는 투자 일지 앱</sub></td>
+  </tr>
+  <tr>
     <td width="180" align="center"><a href="https://apps.apple.com/kr/app/id6474189002"><img src="assets/apps/6474189002.png" width="160" alt="복붙태그"/></a></td>
     <td width="40%"><a href="https://apps.apple.com/kr/app/id6474189002"><b>복붙태그</b></a><br/><sub>해시태그와 글 관리를 한번에!<br/>SNS 태그와 게시글을 그룹별로 관리하고 미리 작성·저장</sub></td>
-  </tr>
-  <tr>
     <td width="180" align="center"><a href="https://apps.apple.com/kr/app/id6738490600"><img src="assets/apps/6738490600.png" width="160" alt="돈계산"/></a></td>
     <td width="40%"><a href="https://apps.apple.com/kr/app/id6738490600"><b>돈계산</b></a><br/><sub>모임 정산 금액을 인원에 맞게<br/>빠르게 분배해주는 앱</sub></td>
-    <td width="180" align="center"><a href="https://apps.apple.com/kr/app/id6443995380"><img src="assets/apps/6443995380.png" width="160" alt="사진에 숫자 입력"/></a></td>
-    <td width="40%"><a href="https://apps.apple.com/kr/app/id6443995380"><b>사진에 숫자 입력</b></a><br/><sub>반복되는 숫자를 사진에<br/>편리하게 입력하는 유틸리티 앱</sub></td>
   </tr>
   <tr>
+    <td width="180" align="center"><a href="https://apps.apple.com/kr/app/id6443995380"><img src="assets/apps/6443995380.png" width="160" alt="사진에 숫자 입력"/></a></td>
+    <td width="40%"><a href="https://apps.apple.com/kr/app/id6443995380"><b>사진에 숫자 입력</b></a><br/><sub>반복되는 숫자를 사진에<br/>편리하게 입력하는 유틸리티 앱</sub></td>
     <td width="180" align="center"><a href="https://apps.apple.com/kr/app/id6740432080"><img src="assets/apps/6740432080.png" width="160" alt="로또마스터"/></a></td>
     <td width="40%"><a href="https://apps.apple.com/kr/app/id6740432080"><b>로또마스터</b></a><br/><sub>로또 당첨번호 확인<br/>및 번호 추첨 앱</sub></td>
-    <td width="180"></td>
-    <td width="40%"></td>
   </tr>
 </table>
 
